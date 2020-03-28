@@ -1,5 +1,5 @@
 # UserRecon v1.0
-# Author: Dark Devil
+# Author: Cyber Attack
 # https://github.com/Dark-Devill/usereco
 
 Find usernames across over 75 social networks
