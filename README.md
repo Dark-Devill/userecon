@@ -1,6 +1,6 @@
 # UserRecon v1.0
 # Author: Cyber Attack
-# https://github.com/Dark-Devill/usereco
+# https://github.com/Dark-Devill/userecon
 
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
